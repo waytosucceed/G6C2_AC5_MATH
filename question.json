@@ -1,0 +1,92 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "A city had 45,321 trees. Due to deforestation, 8,125 trees were cut. Later, 9,000 trees were illegally removed. How many trees remain?",
+    "options": [" 39,196", " 38,196", " 28,196", " 29,196"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "A factory produced 50,000 units of a product. Due to defects, 47,356 units were discarded. How many units are left?",
+    "options": [" 2,644", " 3,644", " 2,344", " 3,344"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "A shopkeeper had 305 tomatoes. He sold 167 in the morning and later he saw 9 tomatoes were rotten. How many tomatoes are left?",
+    "options": [" 137", " 129", " 138", " 149"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "A farmer harvested 834 apples. After selling some, 476 apples remained. How many apples were sold?",
+    "options": [" 348", " 358", " 368", " 378"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A store had 592 boxes of chocolates. It received 205 more, and now has 788 boxes. How many were sold?",
+    "options": [" 9", " 11", " 12", " 15"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "A stadium sold 64,325 tickets for a football match. Due to a mistake, 2,756 duplicate tickets were counted with this. Additionally, 3,918 VIP tickets were issued separately. How many real tickets were sold?",
+    "options": [" 69,487", " 64,325", " 65,487", " 65,731"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Kim had some stamps. Kris gave him 4 more. Now Kim has 12 stamps. How many stamps did Kim have in the beginning?",
+    "options": [" 4", " 8", " 10", " 18"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "A toy shop has 15,000 teddy bears. On Monday, 2500 were sold. On Tuesday, 5000 were sold. On Wednesday, 2500 were sold. How many teddy bears are left after Wednesday?",
+    "options": [" 5000", " 7500", " 8500", " 9000"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Alex has 24 socks. 12 of them are blue, and 12 of them are red. He loses 5 blue socks in the laundry. Then, he buys 8 more red socks. How many red socks does Alex have now?",
+    "options": [" 15", " 20", " 25", " 30"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Sarah had 21 flowers. She gave some to her friend. Now she has 8 flowers. How many did she give to her friend?",
+    "options": [" 20", " 15", " 10", " 13"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Liam baked 24 cookies and put them on the table. His little brother ate 6 cookies before dinner. Liam’s mom baked 12 more cookies and added them to the table. The number of cookies on the table now is",
+    "options": [" 20", " 28", " 30", " 36"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Emma had 14 pencils in her pencil case. She gave 4 pencils to her friend Mia. Later, she found 3 more pencils under her desk and put them back in her case. The number of pencils in Emma's case is",
+    "options": [" 11", " 13", " 14", " 17"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13",
+    "question": "There are 128 chairs in a school hall. Some students took away 39 chairs for an event. Later, the janitor brought back 15 chairs. What is the number of chairs in the hall now?",
+    "options": [" 104", " 112", " 109", " 119"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14",
+    "question": "A birthday party had 74 guests. 24 people left early, but then 19 more arrived later. The number of guests present in the party now is",
+    "options": [" 69", " 85", " 78", " 72"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "question": "A bus started with 35 passengers. At the first stop, 8 people got off and 5 people got on. At the second stop, 6 more got off, but 5 got on. How many people are on the bus now?",
+    "options": [" 23", " 25", " 30", " 31"],
+    "correct": 3
+  }
+]
